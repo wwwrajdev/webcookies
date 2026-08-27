@@ -1,10 +1,24 @@
 {
   "status": "active",
   "kill_switch": false,
-  "kill_switch_message": "AI4COLAB Session Switcher is currently disabled for maintenance.",
-  "latest_version": "28.8.2026.8.15",
-  "latest_version_code": "28.8.2026.815",
+  "kill_switch_message": "AI4COLAB Session Switcher & Cookie Editor is currently disabled for scheduled maintenance. Please check back shortly.",
+  "latest_version": "27.8.2026.8.15",
+  "latest_version_code": "27.8.2026.815",
+  "min_required_version": "27.8.2026.700",
   "update_available": false,
   "update_url": "https://github.com/wwwrajdev/webcookies/releases",
-  "release_notes": "Added remote kill switch protection and live GitHub update checker."
+  "release_notes": "Added remote kill switch protection, live GitHub update checker, and dynamic auto-sizing layout.",
+  "announcement": {
+    "enabled": false,
+    "type": "info",
+    "text": "Welcome to AI4COLAB v27.8.2026! Multi-tab isolated cookies are now fully active.",
+    "link": "https://ai4colab.com"
+  },
+  "support": {
+    "brand": "AI4COLAB",
+    "email": "ai4colab@gmail.com",
+    "phone": "+91-9350074443",
+    "whatsapp": "+919350074443",
+    "website": "https://ai4colab.com"
+  }
 }
