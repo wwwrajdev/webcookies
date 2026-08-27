@@ -2,8 +2,8 @@
   "status": "active",
   "kill_switch": false,
   "kill_switch_message": "AI4COLAB Session Switcher is currently disabled for maintenance.",
-  "latest_version": "27.8.2026.8.15",
-  "latest_version_code": "27.8.2026.815",
+  "latest_version": "27.8.2026.8.16",
+  "latest_version_code": "27.8.2026.816",
   "update_available": false,
   "update_url": "https://github.com/wwwrajdev/webcookies/releases",
   "release_notes": "Added remote kill switch protection and live GitHub update checker."
