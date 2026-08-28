@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "kill_switch": false,
+  "kill_switch": true,
   "kill_switch_message": "AI4COLAB Session Switcher & Cookie Editor is currently disabled for scheduled maintenance. Please check back shortly.",
-  "latest_version": "28.8.2026.9.00",
-  "latest_version_code": "28.8.2026.900",
+  "latest_version": "28.8.2026.9.20",
+  "latest_version_code": "28.8.2026.920",
   "min_required_version": "27.8.2026.700",
   "update_available": false,
   "update_url": "https://github.com/wwwrajdev/webcookies/releases",
-  "release_notes": "Added dedicated Kill Switch update & contact takeover page with full AI4COLAB support directory and normal mode update banner.",
+  "release_notes": "Implemented extension context invalidation guards across popup, content script widget, and dashboard to eliminate uncaught context errors when extension reloads.",
   "announcement": {
     "enabled": false,
     "type": "info",
