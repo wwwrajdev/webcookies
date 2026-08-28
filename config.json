@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "kill_switch": false,
+  "kill_switch": true,
   "kill_switch_message": "AI4COLAB Session Switcher & Cookie Editor is currently disabled for scheduled maintenance. Please check back shortly.",
   "latest_version": "27.8.2026.8.15",
   "latest_version_code": "27.8.2026.815",
